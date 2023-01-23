@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MH_Api.props" />
+</Project>
