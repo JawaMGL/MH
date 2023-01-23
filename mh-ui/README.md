@@ -1,1 +1,2 @@
-# Frontend of Technical assessment using React
+#Frontend
+Technical assessment - using React
